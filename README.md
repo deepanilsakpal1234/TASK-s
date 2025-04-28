@@ -1,2 +1,2 @@
-# TASK-s
-COMPLETED THE ALLOTED TASK USING SQL QUERIES SUCH AS SELECT, WHERE, CASE STATEMENT,DISTINCT,DIFFERERNT AGGREGATION FUNCITON.
+extract insgihts using python tools.
+successfullly executed histogram, boxplot and basic commands like describe.read and info.read
