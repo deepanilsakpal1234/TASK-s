@@ -1,0 +1,46 @@
+Overview
+The HR Analytics Dashboard provides a comprehensive visual analysis of workforce-related metrics such as attrition rate, employee demographics, department-wise distribution, job satisfaction, average salary hikes, and more. This tool supports HR professionals and decision-makers in identifying workforce trends, improving retention strategies, and enhancing overall organizational effectiveness.
+
+Features
+Employee Overview: Total, active, and attrited employees with average age.
+
+Attrition Analysis:
+Overall attrition rate
+Department-wise attrition
+Age group-wise attrition
+Education field-wise attrition
+ Demographic Breakdown:
+Employee count by age and gender
+Distribution across departments and education levels
+ Job Satisfaction:
+Role-wise satisfaction scores (scale of 1 to 4)
+ Compensation Insight:Average hike percentage by job role
+Visuals & Components
+Component	Description
+KPI Cards	Quick metrics (e.g., Attrition Rate, Avg. Age, Total Employees)
+Bar/Column Charts	Employee counts by age, gender, and department
+Pie/Donut Charts	Attrition analysis by department, age group, and education
+Tables	Job satisfaction scores by role
+Horizontal Bars	Average hike by job role
+
+Key Insights
+R&D and Sales departments have the highest attrition rates.
+
+Employees under 25 have the highest attrition percentage.
+
+Most attrition occurs among employees with Life Sciences and Medical backgrounds.
+
+Job roles like Research Directors show lower satisfaction despite consistent salary hikes.
+
+Usage
+Data Source: HR data including employee details, department, education, compensation, satisfaction levels, etc.
+
+Dashboard Tool: Created using Power BI / Tableau / Excel (as per your implementation).
+
+Purpose:
+
+HR policy adjustments
+
+Retention strategy formulation
+
+Talent management and planning
